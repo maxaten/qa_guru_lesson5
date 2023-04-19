@@ -3,6 +3,7 @@ from selene import browser, have
 
 
 def test_form_demo():
+    browser.open('/automation-practice-form')
 
     # enter first name, last name and phone number
     browser.element('#firstName').click().type('Alexander')

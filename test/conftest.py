@@ -14,5 +14,4 @@ def browser_conf():
     # browser.execute_script('document.querySelector("footer","#fixedban").remove();')
     # browser.config.window_width = 1920
     # browser.config.window_height = 1080
-    browser.config.base_url = 'https://demoqa.com/automation-practice-form'
-    browser.open('/')
+    browser.config.base_url = 'https://demoqa.com'

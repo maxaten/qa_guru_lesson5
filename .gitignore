@@ -4,3 +4,4 @@ venv
 .tmp.driveupload
 /.pytest_cache
 .pytest_cache
+*.tmp.driveupload
