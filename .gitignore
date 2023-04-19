@@ -1,0 +1,6 @@
+/.idea
+venv
+/.tmp.driveupload
+.tmp.driveupload
+/.pytest_cache
+.pytest_cache
